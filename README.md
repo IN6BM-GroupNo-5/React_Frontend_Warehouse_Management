@@ -1,4 +1,4 @@
-# 🗃️🌐Warehouse_Mangement-NodeJs_BackEnd
+# 🗃️🌐React_Frontend_Warehouse_Management
 
 ### 🪪 Por: IN6BM 2025 | Grupo No.5
 ###  Para: Fundacion KINAL
